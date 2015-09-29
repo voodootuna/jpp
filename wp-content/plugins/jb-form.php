@@ -14,7 +14,7 @@ $form_content = '<div id="j_form" class="j_form">
 <form>
 First name: <input type="text" name="firstname"><br>
 Last name: <input type="text" name="lastname"><br>
-Message: <textarea name="message"> Enter text here...</textarea><br>
+Message: <textarea name="message"> Enter text here...</textarea><br><br>
 <input type="submit">
 </form>
 </div>';
